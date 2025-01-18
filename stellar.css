@@ -1,2 +1,10 @@
-[InternetShortcut]
-URL=file:///c%3A/Users/habib/Desktop/mschackathon/stellar.css
+body {
+    margin: 0;
+    background: black;
+    overflow: hidden;
+  }
+  /*@grauconejo13 - Vanessa Victorino */
+  canvas {
+    display: block;
+  }
+  
