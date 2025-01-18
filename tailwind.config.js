@@ -4,7 +4,12 @@ module.exports = {
   theme: {
     extend: {
       fontFamily:{
-        Audiowide:["Audiowide", "serif"]
+        Audiowide:["Audiowide", "serif"],
+        Osake:["Osake","serif"],
+        DAYS:["28DAYS","serif"],
+        ROG:["ROG","serif"],
+        Stencil:["Stencil","serif"],
+        Vin:["Vineritc","serif"],
       },
       spacing: {
         '180': '180px',

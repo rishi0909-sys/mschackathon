@@ -73,12 +73,12 @@ gsap.from(navbar,{
 //   duration:2,
 //   delay:5
 // })
-gsap.from("#heading", {
-  y:100,
-  opacity:0,
-  duration:1,
-  delay:3
-})
+// gsap.from("#heading", {
+//   y:100,
+//   opacity:0,
+//   duration:1,
+//   delay:3
+// })
 
 gsap.to("#carousel-1", {
   x: "-120%", 
